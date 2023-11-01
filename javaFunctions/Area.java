@@ -16,7 +16,7 @@ public static void main(String[] args) {
     double Area=area(l,b);
     double Parameter=parameter(l,b);
     System.out.println("area is:"+Area);
-    System.out.println("enter is :"+Parameter);
+    System.out.println("parameter is :"+Parameter);
     sc.close();
    }
  
